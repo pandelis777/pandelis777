@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pandelis
-- 👀 I’m interested in low level programming
-- 🌱 I’m currently and forever will be learning C 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in clever algorithmic solutions
+- 🌱 I’m currently coding (probably) 
+
 
 <!---
 pandelis777/pandelis777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
